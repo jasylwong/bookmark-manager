@@ -9,6 +9,7 @@ gem 'sinatra'
 gem 'capybara'
 gem 'rspec'
 gem 'pg'
+gem 'pry'
 
 group :test do
   gem 'rubocop'
