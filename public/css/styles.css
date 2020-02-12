@@ -1,0 +1,17 @@
+* {
+
+}
+
+.blush_emoji {
+  width: 50px;
+  animation: blush_emoji_spin infinite 0.5s linear;
+}
+
+@keyframes blush_emoji_spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
