@@ -5,11 +5,11 @@ source 'https://rubygems.org'
 git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
 
 # gem "rails"
-gem 'sinatra'
 gem 'capybara'
-gem 'rspec'
 gem 'pg'
 gem 'pry'
+gem 'rspec'
+gem 'sinatra'
 
 group :test do
   gem 'rubocop'
