@@ -12,7 +12,8 @@ gem 'rspec'
 gem 'sinatra'
 
 group :test do
-  gem 'rubocop'
+  gem 'rubocop', '0.71.0'
+  gem 'rubocop-rails'
   gem 'simplecov'
   gem 'simplecov-console'
 end
