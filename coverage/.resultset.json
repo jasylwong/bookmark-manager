@@ -12,7 +12,6 @@
           1,
           1,
           1,
-          1,
           null,
           1,
           null,
@@ -28,7 +27,6 @@
           1,
           1,
           1,
-          null,
           1,
           1,
           1,
@@ -53,7 +51,22 @@
           1,
           1,
           1,
+          1,
+          1,
+          1,
+          1,
           null,
+          null
+        ]
+      },
+      "/Users/student/Programming/Makers/Projects/bookmark-manager/spec/features/deleting_bookmarks_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
           1,
           1,
           1,
@@ -78,11 +91,9 @@
           1,
           1,
           null,
-          null,
           1,
           1,
           1,
-          null,
           1,
           1,
           1,
@@ -92,6 +103,6 @@
         ]
       }
     },
-    "timestamp": 1581617840
+    "timestamp": 1581639148
   }
 }
